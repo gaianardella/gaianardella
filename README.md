@@ -7,4 +7,6 @@ I enjoy participating in hackathons across Europe 🇪🇺 and meeting other dev
 
 🚀 I'm also passionate about languages, particularly Scandinavian ones, and always open to collaborating and learning something new!
 
+👉🏻 My projects: https://gaianardella.github.io/projects/
+
 💡 Let's connect https://www.linkedin.com/in/gaia-nardella/!
